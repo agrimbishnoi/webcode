@@ -1,0 +1,21 @@
+{
+    "suspicious_percentage": 0.0,
+    "details": {
+      "total_key_presses": 8,
+      "analyzed_intervals": 0,
+      "rapid_paste_ctrl_v_count": 0,
+      "rapid_paste_ctrl_v_timestamps": [],
+      "multiple_rapid_paste_sequences": 0,
+      "paste_burst_count": 0,
+      "paste_burst_timestamps": [],
+      "fast_typing_percentage": 0.0,
+      "long_gap_percentage": 0.0,
+      "score_contribution": {
+        "rapid_paste": 0.0,
+        "multiple_rapid_paste": 0.0,
+        "fast_typing": 0.0,
+        "long_gaps": 0.0
+      }
+    },
+    "error": "Not enough key logs (8) for detailed analysis (minimum 10)."
+  }

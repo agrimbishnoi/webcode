@@ -1,0 +1,18 @@
+{
+    "username": "agrimrai7",
+    "problemName": "93",
+    "problemTitle": "Restore IP Addresses",
+    "timestamp_ms": null,
+    "copied_text_preview": "public:\n    vector<string> restoreIpAddresses(string s) {\n        app is working i am trying to find...",
+    "content_length": 117,
+    "source_hostname": "leetcode.com",
+    "suspicion_score": 57,
+    "max_possible_score": 150,
+    "suspicion_percentage": 38.0,
+    "suspicion_level": "Medium",
+    "reasons": [
+      "Long content copied (117 chars)",
+      "Contains code-like structures (braces, semicolons, indentation). Score contribution: 7",
+      "Contains keywords suggesting external solution/explanation (1 found: [\"problem-related name ('restoreipaddresses')\"]...)"
+    ]
+  }
